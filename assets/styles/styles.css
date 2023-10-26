@@ -1,0 +1,13 @@
+body{
+    background-color: azure;
+}
+section{
+    margin: auto;
+    padding: 100px 200px;
+    width: 300px;
+}
+img{
+    display: block;
+    margin: 50px 100px auto;
+
+}

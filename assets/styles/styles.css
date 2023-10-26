@@ -1,13 +1,10 @@
-body{
-    background-color: azure;
+body {
+  background-color: rgb(199 13 124);
 }
-section{
-    margin: auto;
-    padding: 100px 200px;
-    width: 300px;
-}
-img{
-    display: block;
-    margin: 50px 100px auto;
 
+img {
+  display: flex;
+  margin: auto;
+  padding: 30px 50px;
+  width: 100px;
 }
